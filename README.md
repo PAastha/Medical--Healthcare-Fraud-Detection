@@ -1,1 +1,1 @@
-# Medical--Healthcare-Fraud-Detection
+# Medical-Healthcare-Fraud-Detection
